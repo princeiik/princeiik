@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js, MongoDB and Express**
 
-- 📫 How to reach me **At my twitter, email and LinkedIn page**
+- 📫 How to reach me **at my twitter, email and LinkedIn page**
 
 - ⚡ Fun fact **I'm a huge PC gamer and probably watch a little too much twitch**
 
