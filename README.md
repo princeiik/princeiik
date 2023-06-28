@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **at my twitter, email and LinkedIn page**
 
-- ⚡ Fun fact **I'm a huge PC gamer and probably watch a little too much twitch**
+- ⚡ Fun fact **I'm a huge gamer and love talking about space and UFOs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
