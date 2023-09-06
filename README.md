@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, MongoDB and Express**
 
-- 👨‍💻 All of my projects are available at [my Portfolio](princekanu.netlify.app)
+- 👨‍💻 All of my projects are available at [my portfolio](princekanu.netlify.app)
 
 - 📫 How to reach me **Twitter, email and LinkedIn page**
 
