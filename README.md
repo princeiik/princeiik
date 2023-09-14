@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fashion Forward - a web app to showcase your outfits and where you got it from**
 
-- 🌱 I’m currently learning **Node.js, MongoDB and Express**
+- 🌱 I’m currently learning **Node.js, MongoDB, Express and EJS**
 
 - 👨‍💻 All of my projects are available at [my portfolio](princekanu.netlify.app)
 
