@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, my name is Prince Kanu</h1>
+<h1 align="center">Hi there 👋, Prince Kanu</h1>
 <h3 align="center">I'm a full stack web developer looking to do great things one line of code at a time.</h3>
 
 - 🔭 I’m currently working on **Fashion Forward - a web app to showcase your outfits and where you got it from**
