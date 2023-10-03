@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Twitter, Email and LinkedIn page**
 
-- ⚡ Fun fact **I'm a huge gamer so tell me what your favorite game is!**
+- ⚡ Fun fact **I'm a huge gamer so tell me what your favorite games are!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
