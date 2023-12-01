@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, Prince Kanu</h1>
 <h3 align="center">I'm a full stack web developer looking to do great things one line of code at a time.</h3>
 
-- 🔭 I’m currently working on **Project Fashion - a web application to showcase outfits and talk about them**
+- 🔭 I’m currently working on **Project fashion - a web application to showcase outfits and talk about them**
 
 - 🌱 I’m currently learning **Node.js, MongoDB, Express and EJS**
 
