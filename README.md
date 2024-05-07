@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building React applications**
 
-- 🌱 I’m currently learning **Node.js, MongoDB, Express, Bootstrap, EJS and React**
+- 🌱 I’m currently learning **Node.js, MongoDB, Express, Tailwind CSS, EJS and React**
 
 - 👨‍💻 All of my projects are available at [my portfolio](princekanu.netlify.app)
 
