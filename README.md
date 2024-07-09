@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](princekanu.netlify.app)
 
-- 📫 How to reach me **Twitter, Email and LinkedIn**
+- 📫 How to reach me **X (Twitter), Email and LinkedIn**
 
 - ⚡ Fun fact **I'm a huge gamer so tell me what your favorite game is!**
 
