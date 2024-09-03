@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Free-to-play game finder which sorts and filters f2p games using freetoplay API**
 
-- 🌱 I’m currently learning **Node.js, Tailwind CSS and React**
+- 🌱 I’m currently learning **Tailwind CSS and React**
 
 - 👨‍💻 All of my projects are available at [my portfolio](princekanu.netlify.app)
 
