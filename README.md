@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, Prince Kanu</h1>
 <h3 align="center">I'm a full stack web developer looking to do great things one line of code at a time.</h3>
 
-- 🔭 I’m currently working on **a Free-to-play game finder which sorts and filters f2p games using freetoplay API**
+- 🔭 I’m currently working on **F2PHunt: a Free-to-play game finder which sorts and filters f2p games using freetoplay API**
 
 - 🌱 I’m currently learning **Javascript, Tailwind CSS and React**
 
