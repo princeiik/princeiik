@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **fine-tuning Project Fashion website**
 
-- 🌱 I’m currently learning **Javascript, Bootstrap and React**
+- 🌱 I’m currently learning **Javascript, Bootstrap, Tailwind CSS and React**
 
 - 👨‍💻 All of my projects are available at [my portfolio](princekanu.netlify.app)
 
