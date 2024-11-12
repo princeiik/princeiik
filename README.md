@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning TypeScript**
 
-- 🌱 I’m currently learning **Javascript, TypeScript, and React**
+- 🌱 I’m currently learning **TypeScript and React**
 
 - 👨‍💻 All of my projects are available at [my portfolio](princekanu.netlify.app)
 
