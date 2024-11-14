@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, Prince Kanu</h1>
 <h3 align="center">I'm a full stack web developer looking to do great things one line of code at a time.</h3>
 
-- 🔭 I’m currently working on **learning TypeScript**
+- 🔭 I’m currently working on **brainstorming a project using TypeScript**
 
 - 🌱 I’m currently learning **TypeScript and React**
 
