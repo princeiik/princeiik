@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **brainstorming a project using TypeScript**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript and Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [my portfolio](princekanu.netlify.app)
 
